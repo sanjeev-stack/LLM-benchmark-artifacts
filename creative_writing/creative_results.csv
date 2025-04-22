@@ -1,0 +1,16 @@
+id,type,llama3_word_count,llama3_lexical_diversity,llama3.2_word_count,llama3.2_lexical_diversity
+1,story,496,0.6048,635,0.5984
+2,poetry,12,1.0,10,1.0
+3,description,374,0.5989,353,0.5864
+4,dialogue,288,0.6354,317,0.6278
+5,scene,439,0.5786,381,0.622
+6,news-style fiction,408,0.6348,404,0.6287
+7,comedy,350,0.6143,290,0.6828
+8,letter,343,0.5977,394,0.5914
+9,poetry,198,0.7172,169,0.7219
+10,description,506,0.5968,468,0.6239
+11,stream of consciousness,309,0.6375,300,0.6733
+12,story,459,0.5643,455,0.5824
+13,comedy,420,0.6143,360,0.6167
+14,poetry,165,0.7576,227,0.6916
+15,description,312,0.6026,355,0.5831

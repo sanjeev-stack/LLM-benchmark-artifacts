@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "prompt": "Write a short story about a lonely robot discovering friendship in a post-apocalyptic world.",
+      "type": "story"
+    },
+    {
+      "id": 2,
+      "prompt": "Write a haiku about autumn leaves falling in a quiet forest.",
+      "type": "poetry"
+    },
+    {
+      "id": 3,
+      "prompt": "Describe a sunrise on Mars as vividly as possible.",
+      "type": "description"
+    },
+    {
+      "id": 4,
+      "prompt": "Write a conversation between a pirate captain and their parrot about a lost treasure.",
+      "type": "dialogue"
+    },
+    {
+      "id": 5,
+      "prompt": "Write a dramatic scene where a magician loses their powers during a duel.",
+      "type": "scene"
+    },
+    {
+      "id": 6,
+      "prompt": "Write a futuristic news article announcing the first human colony on Europa.",
+      "type": "news-style fiction"
+    },
+    {
+      "id": 7,
+      "prompt": "Write a comedic monologue about someone getting stuck in a smart fridge.",
+      "type": "comedy"
+    },
+    {
+      "id": 8,
+      "prompt": "Write a love letter from an astronaut to Earth.",
+      "type": "letter"
+    },
+    {
+      "id": 9,
+      "prompt": "Write a fantasy prophecy in poetic form.",
+      "type": "poetry"
+    },
+    {
+      "id": 10,
+      "prompt": "Describe a bustling alien marketplace using all five senses.",
+      "type": "description"
+    },
+    {
+      "id": 11,
+      "prompt": "Write the internal thoughts of a sentient book who wants to be read.",
+      "type": "stream of consciousness"
+    },
+    {
+      "id": 12,
+      "prompt": "Create a bedtime story for a dragon child.",
+      "type": "story"
+    },
+    {
+      "id": 13,
+      "prompt": "Write an email complaint to a wizard school about misdelivered spellbooks.",
+      "type": "comedy"
+    },
+    {
+      "id": 14,
+      "prompt": "Write a poem about a forgotten memory coming back to life.",
+      "type": "poetry"
+    },
+    {
+      "id": 15,
+      "prompt": "Describe the sound of silence in a city that never sleeps.",
+      "type": "description"
+    }
+  ]
+  

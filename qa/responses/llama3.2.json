@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What year did the Berlin Wall fall?",
+    "expected_answer": "1989",
+    "model_response": "The Berlin Wall fell on November 9, 1989. The wall had been erected in 1961 to separate East Berlin (the capital of East Germany) from West Berlin and to prevent people from fleeing East Germany to West Germany or West Berlin. The fall of the wall marked the beginning of the end of the division of Germany and the eventual reunification of the country, which was officially accomplished on October 3, 1990."
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "expected_answer": "William Shakespeare",
+    "model_response": "The play \"Romeo and Juliet\" was written by William Shakespeare. It is one of his most famous tragedies, and has become a classic of world literature. The story is based on an ancient Latin tale called \"The Tragicall Historye of Romeus and Juliet\" by Arthur Brooke, but it is Shakespeare's own unique interpretation and writing style that have made the play so enduringly popular."
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Canada?",
+    "expected_answer": "Ottawa",
+    "model_response": "The capital of Canada is Ottawa."
+  },
+  {
+    "id": 4,
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "expected_answer": "100",
+    "model_response": "The boiling point of water at sea level, which is typically defined as an altitude of 0 meters or 0 feet, is 100 degrees Celsius (\u00b0C) or 212 degrees Fahrenheit (\u00b0F)."
+  },
+  {
+    "id": 5,
+    "question": "If a train leaves at 3 PM traveling 60 mph and another at 4 PM going 80 mph, when do they meet?",
+    "expected_answer": "6 PM",
+    "model_response": "A classic problem!\n\nLet's break it down step by step:\n\n1. The first train leaves at 3 PM and travels at 60 mph.\n2. The second train leaves at 4 PM (one hour later) and travels at 80 mph.\n\nTo find the time when they meet, we need to find the distance between them when they leave and then calculate how long it takes for the faster train to cover that distance.\n\nDistance = Speed \u00d7 Time\n\nThe first train travels for 1 hour before the second train leaves. So, it covers a distance of:\n\nDistance = 60 mph \u00d7 1 hour = 60 miles\n\nNow, we need to find out when the faster train (80 mph) catches up with the first train's position.\n\nTime = Distance / Speed\n= 60 miles / (80 mph - 60 mph)\n= 2 hours\n\nSo, the second train takes 2 hours to cover the distance between them. Since it leaves at 4 PM, it will catch up with the first train at:\n\nMeeting time = 4 PM + 2 hours = 6 PM\n\nTherefore, the two trains meet at 6 PM."
+  },
+  {
+    "id": 6,
+    "question": "A store sells pencils at 3 for $1. How many can you buy with $5?",
+    "expected_answer": "15",
+    "model_response": "Since the store sells pencils at 3 for $1, that means each pencil costs $1/3.\n\nTo find out how many pencils you can buy with $5, you can divide the amount of money you have ($5) by the cost of one pencil ($1/3):\n\n$5 \u00f7 ($1/3) = $15\n\nSo, you can buy 15 pencils with $5!"
+  },
+  {
+    "id": 7,
+    "question": "If you multiply this number by any other number, the answer will always be the same. What number is it?",
+    "expected_answer": "0",
+    "model_response": "A classic lateral thinking puzzle!\n\nThe answer is... 0!\n\nWhen you multiply 0 by any other number, the result is always 0. Well done on creating a clever puzzle!"
+  },
+  {
+    "id": 8,
+    "question": "Marie Curie won Nobel Prizes in which two fields?",
+    "expected_answer": "Physics and Chemistry",
+    "model_response": "Marie Curie won Nobel Prizes in two fields:\n\n1. Physics (1903) - awarded along with her husband Pierre Curie and Henri Becquerel for their pioneering work on radioactivity.\n2. Chemistry (1911) - awarded alone for her work on the isolation of pure radium.\n\nShe is the only person to have won Nobel Prizes in two different scientific fields: physics and chemistry."
+  },
+  {
+    "id": 9,
+    "question": "Who was the first President of the United States and in what year did he take office?",
+    "expected_answer": "George Washington, 1789",
+    "model_response": "The first President of the United States was George Washington. He took office on April 30, 1789, after being unanimously elected by the Electoral College to serve as the first President of the United States under the new Constitution."
+  },
+  {
+    "id": 10,
+    "question": "What two countries share the longest international land border?",
+    "expected_answer": "Canada and the United States",
+    "model_response": "The two countries that share the longest international land border are Canada and the United States. The 49th parallel north, which runs for approximately 8,893 kilometers (5,525 miles), forms the majority of their border. Additionally, there are shorter sections where the border follows rivers or the Great Lakes."
+  },
+  {
+    "id": 11,
+    "question": "If today is Monday, what day of the week will it be 100 days from now?",
+    "expected_answer": "Wednesday",
+    "model_response": "Since there are 7 days in a week, you can divide 100 by 7 to find the remainder. This will tell you how many \"extra\" days there are.\n\n100 \u00f7 7 = 14 with a remainder of 2\n\nThis means that 100 days from now, it will be 2 days later than today (Monday). Since Monday + 2 is Wednesday, the answer is:\n\nWednesday"
+  },
+  {
+    "id": 12,
+    "question": "What is the smallest prime number greater than 100?",
+    "expected_answer": "101",
+    "model_response": "The smallest prime number greater than $100$ is $\\boxed{101}.$\nFinal Answer: The final answer is 101. I hope it is correct."
+  },
+  {
+    "id": 13,
+    "question": "Which planet is known for its rings?",
+    "expected_answer": "Saturn",
+    "model_response": "Saturn is the planet most commonly associated with having beautiful and prominent rings. The ring system of Saturn is one of the most famous and iconic in our solar system, made up of seven main rings and numerous smaller ringlets. However, it's worth noting that other planets, like Jupiter, Uranus, and Neptune, also have ring systems, although they are less prominent than Saturn's."
+  },
+  {
+    "id": 14,
+    "question": "Name the largest ocean on Earth.",
+    "expected_answer": "Pacific Ocean",
+    "model_response": "The largest ocean on Earth is the Pacific Ocean, which covers an area of approximately 155.6 million square kilometers (60.1 million square miles). It's also the deepest ocean, with a maximum depth of about 11,022 meters (36,198 feet) in the Mariana Trench."
+  },
+  {
+    "id": 15,
+    "question": "In which year did the first human land on the Moon?",
+    "expected_answer": "1969",
+    "model_response": "The first humans landed on the Moon on July 20, 1969. NASA's Apollo 11 mission successfully touched down on the lunar surface at 20:17 UTC (Coordinated Universal Time) on July 21, 1969. The lunar module Eagle, piloted by Neil Armstrong and Edwin \"Buzz\" Aldrin, landed in the Moon's Sea of Tranquility. Armstrong became the first person to set foot on the Moon, famously declaring, \"That's one small step for man, one giant leap for mankind.\""
+  }
+]

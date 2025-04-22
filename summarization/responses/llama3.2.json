@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "type": "news",
+    "source": "NASA's Artemis program aims to land the first woman and the next man on the Moon by 2024, using innovative technologies to explore more of the lunar surface.",
+    "reference_summary": "Artemis will land the first woman and next man on the Moon by 2024.",
+    "model_summary": "Here is a summary of the text:\n\nNASA's Artemis program plans to send the first woman and second man to the Moon by 2024, utilizing cutting-edge technology to explore the lunar surface in greater detail."
+  },
+  {
+    "id": 2,
+    "type": "definition",
+    "source": "Machine learning is a subfield of artificial intelligence focused on building systems that learn from data and improve over time without explicit programming.",
+    "reference_summary": "Machine learning enables systems to learn from data without explicit programming.",
+    "model_summary": "Here is a summary of the text:\n\nMachine learning is a part of artificial intelligence (AI) that involves creating systems that can learn from data and get better over time, without needing to be explicitly programmed."
+  },
+  {
+    "id": 3,
+    "type": "history",
+    "source": "The French Revolution, which began in 1789, was a period of radical social and political change in France that fundamentally altered the course of modern history.",
+    "reference_summary": "The French Revolution (1789) drastically changed France's society and politics.",
+    "model_summary": "Here is a summary of the text:\n\nThe French Revolution, started in 1789, brought about significant changes to French society and politics, having a profound impact on modern history."
+  },
+  {
+    "id": 4,
+    "type": "tech",
+    "source": "A smartphone typically includes a processor, memory, camera, touchscreen display, and a battery, all integrated into a compact handheld device.",
+    "reference_summary": "Smartphones combine core hardware into a compact touchscreen device.",
+    "model_summary": "A smartphone is a portable device that combines several essential components: a processor, memory, camera, touch-sensitive screen, and battery, all packaged in a small and convenient handheld format."
+  },
+  {
+    "id": 5,
+    "type": "science",
+    "source": "Photosynthesis is a process used by plants to convert light energy into chemical energy stored in glucose, using carbon dioxide and water.",
+    "reference_summary": "Photosynthesis turns light, CO\u2082, and water into glucose for plants.",
+    "model_summary": "Here is a summary of the text:\n\nPhotosynthesis is a process where plants turn light energy into chemical energy (glucose) using CO2 and H2O."
+  },
+  {
+    "id": 6,
+    "type": "economics",
+    "source": "Inflation refers to the rate at which the general level of prices for goods and services rises, reducing consumers' purchasing power over time.",
+    "reference_summary": "Inflation is the rising cost of goods, reducing purchasing power.",
+    "model_summary": "Here is a summary of the text:\n\nInflation occurs when the overall cost of living increases, causing prices to rise and decreasing the value of money over time."
+  },
+  {
+    "id": 7,
+    "type": "history",
+    "source": "The Great Wall of China, stretching over 13,000 miles, was built over centuries to protect Chinese states from invasions by nomadic groups.",
+    "reference_summary": "The Great Wall was built to defend China and stretches over 13,000 miles.",
+    "model_summary": "Here is a summary of the text:\n\nThe Great Wall of China, which spans approximately 13,000 miles, was constructed over many centuries to serve as a barrier against invasions by nomadic groups seeking to attack Chinese states."
+  },
+  {
+    "id": 8,
+    "type": "tech",
+    "source": "Photoshop is a graphics editing software developed by Adobe that allows users to manipulate images, create digital artwork, and perform professional-level photo editing.",
+    "reference_summary": "Photoshop is Adobe's software for image editing and digital art.",
+    "model_summary": "Here is a summary of the text:\n\nPhotoshop is a graphic editing software created by Adobe that enables users to edit images, create digital art, and perform advanced photo editing tasks."
+  },
+  {
+    "id": 9,
+    "type": "environment",
+    "source": "The Amazon rainforest plays a critical role in regulating Earth's climate by absorbing large amounts of carbon dioxide and producing oxygen.",
+    "reference_summary": "The Amazon regulates climate by absorbing CO\u2082 and producing oxygen.",
+    "model_summary": "Here is a summary of the text:\n\nThe Amazon rainforest helps regulate Earth's climate by removing carbon dioxide and releasing oxygen."
+  },
+  {
+    "id": 10,
+    "type": "tech",
+    "source": "Electric vehicles (EVs) are powered by electricity stored in batteries and produce zero tailpipe emissions, offering a cleaner alternative to traditional cars.",
+    "reference_summary": "EVs run on battery power and emit no tailpipe pollutants.",
+    "model_summary": "Here is a summary of the text:\n\nElectric vehicles (EVs) run on battery power, producing no pollution and providing a cleaner option compared to traditional cars."
+  },
+  {
+    "id": 11,
+    "type": "science",
+    "source": "Albert Einstein developed the theory of relativity, fundamentally changing our understanding of time, space, and gravity.",
+    "reference_summary": "Einstein's relativity theory reshaped ideas of time, space, and gravity.",
+    "model_summary": "Here is a summary of the text:\n\nEinstein developed his theory of relativity, which revolutionized our understanding of time, space, and gravity."
+  },
+  {
+    "id": 12,
+    "type": "environment",
+    "source": "Renewable energy sources like solar, wind, and hydro power offer sustainable alternatives to fossil fuels and help reduce greenhouse gas emissions.",
+    "reference_summary": "Renewables reduce emissions by replacing fossil fuels with clean energy.",
+    "model_summary": "Renewable energy sources such as solar, wind, and hydro power provide a sustainable alternative to fossil fuels and contribute to reducing greenhouse gas emissions."
+  },
+  {
+    "id": 13,
+    "type": "literature",
+    "source": "William Shakespeare was a 16th-century English playwright and poet, widely regarded as one of the greatest writers in the English language.",
+    "reference_summary": "Shakespeare is a legendary English playwright and poet of the 16th century.",
+    "model_summary": "Here is a summary of the text:\n\nShakespeare was a renowned English playwright and poet who lived in the 16th century and is considered one of the most skilled writers in the English language."
+  },
+  {
+    "id": 14,
+    "type": "news",
+    "source": "The COVID-19 pandemic, caused by the SARS-CoV-2 virus, led to global health, economic, and social disruptions starting in early 2020.",
+    "reference_summary": "COVID-19 caused widespread global disruption starting in 2020.",
+    "model_summary": "Here is a summary of the text:\n\nThe COVID-19 pandemic, caused by the SARS-CoV-2 virus, caused widespread disruptions globally in terms of health, economy, and society, beginning in early 2020."
+  },
+  {
+    "id": 15,
+    "type": "tech",
+    "source": "The internet is a global network of interconnected computers that enables communication, information sharing, and access to online services.",
+    "reference_summary": "The internet connects computers globally for communication and services.",
+    "model_summary": "Here's a summary:\n\nThe internet is a worldwide network connecting computers, allowing people to communicate, share info, and use online services."
+  }
+]

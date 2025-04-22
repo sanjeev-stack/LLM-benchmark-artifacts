@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "question": "What year did the Berlin Wall fall?",
+      "answer": "1989",
+      "type": "factual"
+    },
+    {
+      "id": 2,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answer": "William Shakespeare",
+      "type": "factual"
+    },
+    {
+      "id": 3,
+      "question": "What is the capital of Canada?",
+      "answer": "Ottawa",
+      "type": "factual"
+    },
+    {
+      "id": 4,
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "answer": "100",
+      "type": "factual"
+    },
+    {
+      "id": 5,
+      "question": "If a train leaves at 3 PM traveling 60 mph and another at 4 PM going 80 mph, when do they meet?",
+      "answer": "6 PM",
+      "type": "reasoning"
+    },
+    {
+      "id": 6,
+      "question": "A store sells pencils at 3 for $1. How many can you buy with $5?",
+      "answer": "15",
+      "type": "reasoning"
+    },
+    {
+      "id": 7,
+      "question": "If you multiply this number by any other number, the answer will always be the same. What number is it?",
+      "answer": "0",
+      "type": "reasoning"
+    },
+    {
+      "id": 8,
+      "question": "Marie Curie won Nobel Prizes in which two fields?",
+      "answer": "Physics and Chemistry",
+      "type": "multi-hop"
+    },
+    {
+      "id": 9,
+      "question": "Who was the first President of the United States and in what year did he take office?",
+      "answer": "George Washington, 1789",
+      "type": "multi-hop"
+    },
+    {
+      "id": 10,
+      "question": "What two countries share the longest international land border?",
+      "answer": "Canada and the United States",
+      "type": "factual"
+    },
+    {
+      "id": 11,
+      "question": "If today is Monday, what day of the week will it be 100 days from now?",
+      "answer": "Wednesday",
+      "type": "reasoning"
+    },
+    {
+      "id": 12,
+      "question": "What is the smallest prime number greater than 100?",
+      "answer": "101",
+      "type": "reasoning"
+    },
+    {
+      "id": 13,
+      "question": "Which planet is known for its rings?",
+      "answer": "Saturn",
+      "type": "factual"
+    },
+    {
+      "id": 14,
+      "question": "Name the largest ocean on Earth.",
+      "answer": "Pacific Ocean",
+      "type": "factual"
+    },
+    {
+      "id": 15,
+      "question": "In which year did the first human land on the Moon?",
+      "answer": "1969",
+      "type": "factual"
+    }
+  ]

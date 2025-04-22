@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What year did the Berlin Wall fall?",
+    "expected_answer": "1989",
+    "model_response": "The Berlin Wall fell on November 9, 1989."
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "expected_answer": "William Shakespeare",
+    "model_response": "The play \"Romeo and Juliet\" was written by William Shakespeare. It is one of his most famous tragedies, and its story has become an iconic part of Western cultural heritage. The play was first published in 1597 and has since been performed countless times around the world."
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Canada?",
+    "expected_answer": "Ottawa",
+    "model_response": "The capital of Canada is Ottawa."
+  },
+  {
+    "id": 4,
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "expected_answer": "100",
+    "model_response": "The boiling point of water at sea level (standard atmospheric pressure) is 100 degrees Celsius (\u00b0C)."
+  },
+  {
+    "id": 5,
+    "question": "If a train leaves at 3 PM traveling 60 mph and another at 4 PM going 80 mph, when do they meet?",
+    "expected_answer": "6 PM",
+    "model_response": "A classic problem!\n\nLet's break it down step by step:\n\n1. The first train leaves at 3 PM and travels at 60 mph.\n2. The second train leaves at 4 PM (1 hour later) and travels at 80 mph.\n\nTo find the time when they meet, we need to calculate how far apart they are at each minute after 4 PM.\n\nAt 4:00 PM, the first train has been traveling for 1 hour, so it's 60 miles ahead of the starting point. The second train is still at the starting point.\n\nAt 4:01 PM, the first train has traveled an additional 0.5 miles (since it's going 60 mph), making a total distance of 60.5 miles from the starting point. The second train has also moved 1 mile in that minute (since it's going 80 mph).\n\nWe can continue this process:\n\n4:02 PM: First train is now 61 miles ahead, while the second train is 2 miles ahead.\n4:03 PM: First train is now 61.5 miles ahead, while the second train is 3 miles ahead.\n...\n4:30 PM: First train is now 75 miles ahead, while the second train is 25 miles behind.\n\nAs you can see, the distance between them keeps decreasing until they finally meet at:\n\n4:45 PM!\n\nThat's when the two trains will be exactly 15 miles apart, with the first train still going strong and the second train closing in."
+  },
+  {
+    "id": 6,
+    "question": "A store sells pencils at 3 for $1. How many can you buy with $5?",
+    "expected_answer": "15",
+    "model_response": "Since the store sells pencils at 3 for $1, that means each pencil costs:\n\n$1 \u00f7 3 = $0.33 per pencil\n\nTo find out how many pencils you can buy with $5, multiply the cost of one pencil by 5:\n\n$0.33 per pencil \u00d7 15 = 5 pencils\n\nSo, you can buy 5 pencils with $5!"
+  },
+  {
+    "id": 7,
+    "question": "If you multiply this number by any other number, the answer will always be the same. What number is it?",
+    "expected_answer": "0",
+    "model_response": "A classic lateral thinking puzzle!\n\nThe answer is \"0\".\n\nWhen you multiply 0 by any other number, the result is always 0."
+  },
+  {
+    "id": 8,
+    "question": "Marie Curie won Nobel Prizes in which two fields?",
+    "expected_answer": "Physics and Chemistry",
+    "model_response": "Marie Curie won Nobel Prizes in Physics (1903) and Chemistry (1911). She was the first person to win Nobel Prizes in two different scientific fields."
+  },
+  {
+    "id": 9,
+    "question": "Who was the first President of the United States and in what year did he take office?",
+    "expected_answer": "George Washington, 1789",
+    "model_response": "The first President of the United States was George Washington, and he took office on April 30, 1789. He was inaugurated as the first president under the new Constitution, which had been ratified just a few months earlier, on June 21, 1788. Washington served two terms in office, from 1789 to 1797, and is often referred to as the \"Father of Our Country\" for his role in leading the Continental Army to victory in the American Revolution and setting important precedents for the presidency."
+  },
+  {
+    "id": 10,
+    "question": "What two countries share the longest international land border?",
+    "expected_answer": "Canada and the United States",
+    "model_response": "The United States and Canada share the longest international land border, which is approximately 8,893 kilometers (5,525 miles) long."
+  },
+  {
+    "id": 11,
+    "question": "If today is Monday, what day of the week will it be 100 days from now?",
+    "expected_answer": "Wednesday",
+    "model_response": "Since there are 7 days in a week, we can divide 100 by 7 to find the remainder:\n\n100 \u00f7 7 = 14 with a remainder of 2\n\nSo, 100 days from now will be 14 weeks and 2 days later. Therefore, it will be a Sunday."
+  },
+  {
+    "id": 12,
+    "question": "What is the smallest prime number greater than 100?",
+    "expected_answer": "101",
+    "model_response": "The first few prime numbers after $100$ are:\n\n$$101,\\;103,\\;107,\\;109,\\;113,\\;127,\\;131,\\;137,\\;139,\\;149,\\;\\ldots$$So, the answer is $\\boxed{101}.$\nFinal Answer: The final answer is 101. I hope it is correct."
+  },
+  {
+    "id": 13,
+    "question": "Which planet is known for its rings?",
+    "expected_answer": "Saturn",
+    "model_response": "That would be Saturn! Saturn's ring system is one of the most iconic and well-known in our solar system. The rings are made up of countless small, icy particles that orbit around the planet, stretching out for hundreds of thousands of miles. They're a breathtaking sight to behold, and have captivated astronomers and space enthusiasts alike for centuries."
+  },
+  {
+    "id": 14,
+    "question": "Name the largest ocean on Earth.",
+    "expected_answer": "Pacific Ocean",
+    "model_response": "The largest ocean on Earth is the Pacific Ocean, which covers an area of approximately 155.6 million square kilometers (60.1 million square miles). It's also the deepest ocean, with a maximum depth of about 11,022 meters (36,198 feet) in the Mariana Trench."
+  },
+  {
+    "id": 15,
+    "question": "In which year did the first human land on the Moon?",
+    "expected_answer": "1969",
+    "model_response": "The first humans to walk on the Moon were Neil Armstrong and Edwin \"Buzz\" Aldrin. They landed on July 20, 1969, as part of the Apollo 11 mission. Armstrong stepped out of the lunar module Eagle and famously declared, \"That's one small step for man, one giant leap for mankind,\" at 2:56 UTC on July 21, 1969."
+  }
+]
